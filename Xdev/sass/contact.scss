@@ -1,0 +1,105 @@
+.container{
+	.title
+	{
+		height: 145px;
+	}
+	.find
+	{
+		padding: 55px 0 0 20px;
+		margin: 0;
+	}
+	.us
+	{
+		padding: 0 0 10px 20px;
+		color: #ff7e2e;
+		margin: 0;
+	}
+	.s1
+	{
+		height: 700px;
+		position: relative;
+		bottom: 145px;
+	}
+	.getin
+	{
+		padding: 55px 0 0 20px;
+		margin: 0;
+	}
+	.touch
+	{
+		padding: 0 0 10px 20px;
+		color: #ff7e2e;
+		margin: 0;
+	}
+	.NameBox 
+	{
+ 	   	padding: 20px 0 0 30px;
+	}
+	.EmailBox
+	{
+   	   	padding: 20px 0 0 30px;    
+	}
+	.PhoneBox
+	{
+    	padding: 20px 0 0 30px;    
+	}
+	input 
+	{
+    	box-sizing: border-box;
+    	width: 90%;
+    	border: 1px solid #999;
+    	background: #fff;
+    	padding: 10px;
+	}
+	.form-control
+	{
+		position: relative;
+		top: 20px;
+		left: 30px;
+	}
+
+	.limpiar
+	{
+		margin:30px 0 0 270px;
+		color: #ffffff;
+		font-size: 12px;
+	}
+	.enviar
+	{
+		position: relative;
+		top: 20px;
+		left: 60px;
+		color: #ffffff;
+		font-size: 12px;
+	}
+	.btn-info
+	{
+		font-size: 15px;
+		text-align: center;
+		background: #ff7e2e;
+		border: none;
+		padding: 10px 0 0 0;
+	}
+	.btn
+	{
+		width: 70px;
+		height: 40px;
+	}
+	.s2
+	{
+		height: 555px;
+		position: relative;
+	
+	}
+	table
+	{
+		margin: 30px 20px 0 20px;
+	}
+	td
+	{
+		font-size: 12px;
+		color: #808080;
+		opacity: 0.5;
+		padding: 190px 0 0 0;
+	}
+}
