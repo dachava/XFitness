@@ -1,25 +1,40 @@
 .gallery
 {
-	h1{
-		margin: 24px 0 0 8px;
-		font-size: 40px;
-		
+	
+	.title_gallery_1
+	{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 200%;
+		padding:0 0 0 90px;
+		margin: 0;
 	}
+	.title_gallery_2
+	{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 200%;
+		color:#f88066;
+		margin: 0;
+		padding:0 0 0 90px;
+	}	
 
-	.carousel{
+	.carousel
+	{
 		margin: 28px 38px 0 76px;
 	}
 
-	h2{
+	h2
+	{
 		font-size: 14px;
 		margin: 52px 0 0 77px;
 	}
 
-	.fintess{
+	.fintess
+	{
 		margin: 0 0 0 0;
 	}
 
-	.main-content{
+	.main-content
+	{
 		font-size: 12px;
 		margin: 7px 0 0 76px;
 		font-weight: bold;

@@ -1,0 +1,16 @@
+body {
+  background-color: #ffffff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#e4e4e6), to(#ffffff));
+  background-image: -webkit-linear-gradient(top, #e4e4e6 50%, #ffffff 100%);
+  background-image: -o-linear-gradient(top, #e4e4e6 50%, #ffffff 100%);
+  background-image: linear-gradient(top, #e4e4e6 50%, #ffffff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#e4e4e6, endColorstr=#ffffff,GradientType=0 );
+  /* IE6-9 */
+  background-repeat: repeat-x;
+  /* Repeat the gradient */ }
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1018px; } }
+
+/*# sourceMappingURL=generalStyles.css.map */

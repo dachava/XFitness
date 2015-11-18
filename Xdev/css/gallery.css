@@ -1,0 +1,24 @@
+.gallery .title_gallery_1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 200%;
+  padding: 0 0 0 90px;
+  margin: 0; }
+.gallery .title_gallery_2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 200%;
+  color: #f88066;
+  margin: 0;
+  padding: 0 0 0 90px; }
+.gallery .carousel {
+  margin: 28px 38px 0 76px; }
+.gallery h2 {
+  font-size: 14px;
+  margin: 52px 0 0 77px; }
+.gallery .fintess {
+  margin: 0 0 0 0; }
+.gallery .main-content {
+  font-size: 12px;
+  margin: 7px 0 0 76px;
+  font-weight: bold; }
+
+/*# sourceMappingURL=gallery.css.map */
